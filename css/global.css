@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Comme:wght@100..900&display=swap");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --title-color: #ffcc00;
+  --border-color: rgb(255, 0, 51);
+  scroll-behavior: smooth;
+  font-family: "Comme", sans-serif;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
